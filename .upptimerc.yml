@@ -6,7 +6,7 @@ sites:
   - name: VRSocial
     url: https://vrsocial.network
   - name: VRSocial CDN
-    url: https:/cdn.vrsocial.network
+    url: https:/cdn-vrsocial.b-cdn.net
   - name: Peer Tube
     url: https://media.vrsocial.network
 
