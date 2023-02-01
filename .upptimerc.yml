@@ -5,6 +5,8 @@ repo: vrsocial-network # The name of this repository
 sites:
   - name: VRSocial
     url: https://vrsocial.network
+  - name: VRSocial CDN
+    url: https:/cdn.vrsocial.network
   - name: Peer Tube
     url: https://media.vrsocial.network
 
