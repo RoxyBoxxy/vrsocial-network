@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vrsocial.network.ico",
     "slug": "vr-social",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "99.24%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
     "time": 564,
     "timeDay": 565,
     "timeWeek": 564,
@@ -24,19 +24,19 @@
     "url": "https:/cdn-vrsocial.b-cdn.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vr-social-cdn",
-    "status": "down",
-    "uptime": "86.37%",
-    "uptimeDay": "86.37%",
-    "uptimeWeek": "86.37%",
-    "uptimeMonth": "86.37%",
-    "uptimeYear": "86.37%",
-    "time": 216,
-    "timeDay": 216,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "status": "up",
+    "uptime": "74.99%",
+    "uptimeDay": "74.99%",
+    "uptimeWeek": "74.99%",
+    "uptimeMonth": "74.99%",
+    "uptimeYear": "74.99%",
+    "time": 352,
+    "timeDay": 352,
+    "timeWeek": 352,
+    "timeMonth": 352,
+    "timeYear": 352,
     "dailyMinutesDown": {
-      "2023-02-01": 14
+      "2023-02-01": 29
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-01": 1268,
+      "2023-02-01": 1283,
       "2023-01-31": 236
     }
   }
