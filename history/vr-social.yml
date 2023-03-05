@@ -1,7 +1,7 @@
 url: https://vrsocial.network
-status: up
-code: 200
-responseTime: 574
-lastUpdated: 2023-03-04T23:16:04.210Z
+status: down
+code: 502
+responseTime: 771
+lastUpdated: 2023-03-05T09:18:23.712Z
 startTime: Tue Jan 31 2023 20:04:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
